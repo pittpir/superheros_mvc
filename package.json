@@ -1,0 +1,22 @@
+{
+  "name": "superheros_mvc",
+  "version": "1.1.1",
+  "description": "Super Hero MVP",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pittpir/superheros_mvc.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pittpir/superheros_mvc/issues"
+  },
+  "homepage": "https://github.com/pittpir/superheros_mvc#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
